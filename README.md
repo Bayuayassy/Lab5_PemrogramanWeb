@@ -39,6 +39,49 @@ Kelas : TI.22.A1
 # Dasar Pemrograman Di Javascript
 1.  Operasi dasar aritmatika.
 
+![6](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/8dcfb156-1569-4e89-8a90-54a1fc55219a)
+
+![7](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/9fde09a7-2f06-4fbd-9b6f-191b380283c1)
+
+2.  Seleksi kondisi (if.else)
+
+![8](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/90867f21-622e-41e8-a59e-c9031dd26bf1)
+
+![9](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/6a879b63-f994-4a36-be3a-4b55c1689a4a)
+
+3.  Penggunaan operator switch untuk seleksi kondisi
+
+![10](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/4c9b7c35-83a3-4d4e-bf27-d9ba8c268eea)
+
+![11](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/be7da625-2073-49b0-ad96-34f9df7c4569)
+
+![12](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/038e0272-2466-4057-b607-3c1c1b007c6d)
+
+# Pembuatan From
+1.   form Input
+
+![13](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/b06f9ac8-d409-4298-a90b-d2c50274ae97)
+
+2.   form Button
+
+![14](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/62db1198-08bd-42a4-a35c-720305ec3c9f)
+
+-  Latar Belakang Warna Hijau
+
+![15](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/8e232450-c0a6-4d84-aa6b-46bfa614e2d6)
+
+
+-  Teks Berubah Warna Kuning
+
+![16](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/2ac49fc3-4f4f-4188-b899-18e1d9e9f1ea)
+
+
+-  Teks Berubah Warna Biru
+ 
+![17](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/a22aabda-048f-4818-b8b6-066289e7d6b0)
+
+
+
    
 
 
