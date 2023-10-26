@@ -80,6 +80,20 @@ Kelas : TI.22.A1
  
 ![17](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/a22aabda-048f-4818-b8b6-066289e7d6b0)
 
+# HTML DOM
+1.   Pilihan menggunakan checkBox dengan perhitungan otomatis
+
+   ![Cuplikan layar 2023-10-26 221801](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/596688b0-9165-42c1-a79e-8031d436d8c1)
+
+   ![Cuplikan layar 2023-10-26 221837](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/56d7bdde-15e7-4b4d-a00a-c108c6e63efe)
+
+# Pertanyaan dan tugas
+1.   Buat script untuk melakukan validasi pada isian form
+
+![Cuplikan layar 2023-10-26 222427](https://github.com/Bayuayassy/Lab5_PemrogramanWeb/assets/115678251/9a80e5da-e22f-4e62-b009-92c69a7742b5)
+
+
+
 
 
    
